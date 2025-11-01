@@ -1,0 +1,9 @@
+{
+  "name": "GDrive Enhanced",
+  "description": "Streams Bollywood movies from Google Drive using your custom API backend.",
+  "version": 1,
+  "authors": ["bollywoodfever2310"],
+  "language": "hi",
+  "url": "https://bollywoodfever2310.onrender.com",
+  "pluginClass": "com.bollywoodfever.GDriveEnhanced"
+}
